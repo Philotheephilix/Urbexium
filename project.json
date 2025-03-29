@@ -1,0 +1,82 @@
+[
+  {
+    "module": "Identity Management",
+    "submodules": [
+      {
+        "title": "ZK Identity Verification",
+        "description": "Utilizes Zero-Knowledge (ZK) proofs to enable users to authenticate their identity without revealing personal information. This privacy-preserving method ensures that users can prove their identity while maintaining confidentiality, making it ideal for civic applications where data sensitivity is paramount.",
+        "selected": true
+      },
+      {
+        "title": "Self Protocol",
+        "description": "A decentralized protocol that allows users to manage their own identity credentials. Users can create, store, and share their identity information securely, ensuring that they have full control over their personal data and can choose when and with whom to share it.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "AI Processing",
+    "submodules": [
+      {
+        "title": "NLP Analysis",
+        "description": "Employs Natural Language Processing (NLP) techniques to analyze user-generated content and feedback. This analysis helps in understanding community sentiments, identifying key issues, and enhancing user engagement by tailoring responses and services based on real-time data.",
+        "selected": true
+      },
+      {
+        "title": "Automatic Task Categorization",
+        "description": "Utilizes machine learning algorithms to automatically categorize tasks and requests submitted by users. This feature streamlines the workflow by ensuring that tasks are directed to the appropriate departments or individuals, improving response times and overall efficiency.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Smart Contracts",
+    "submodules": [
+      {
+        "title": "Reactive Smart Contracts",
+        "description": "Smart contracts that automatically execute actions based on predefined conditions. This includes automated payments for services rendered and penalties for non-compliance. The reactive nature of these contracts ensures that civic processes are efficient and transparent, reducing the need for manual intervention.",
+        "selected": true
+      },
+      {
+        "title": "Reactive Network",
+        "description": "A decentralized network that supports the execution of reactive smart contracts. This network ensures that all transactions are recorded on the blockchain, providing an immutable and transparent record of all civic interactions, thereby enhancing trust among users.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Governance",
+    "submodules": [
+      {
+        "title": "Cross-Chain DAO Governance",
+        "description": "Facilitates decentralized governance across multiple blockchain networks. This allows for a more inclusive decision-making process where stakeholders can participate in governance regardless of the blockchain they are on, promoting a unified civic infrastructure.",
+        "selected": true
+      },
+      {
+        "title": "Quadratic Voting",
+        "description": "A voting mechanism that allows users to express the intensity of their preferences rather than just a binary choice. This method ensures that minority opinions are represented fairly, leading to more equitable decision-making in civic matters.",
+        "selected": true
+      },
+      {
+        "title": "Fund Management",
+        "description": "A decentralized approach to managing community funds, allowing for transparent allocation and usage of resources. This feature ensures that funds are used effectively and that stakeholders can track expenditures and contributions in real-time.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "User Experience",
+    "submodules": [
+      {
+        "title": "Gasless UX",
+        "description": "Provides a seamless user experience by eliminating transaction fees for users. This is achieved through the integration of Coinbase Smart Wallets, which allow users to interact with the platform without worrying about gas fees, thus lowering the barrier to entry for participation in civic activities.",
+        "selected": true
+      },
+      {
+        "title": "Coinbase Smart Wallets",
+        "description": "A user-friendly wallet solution that simplifies the process of managing digital assets and interacting with decentralized applications. This wallet supports gasless transactions, making it easier for users to engage with the platform without needing extensive knowledge of blockchain technology.",
+        "selected": true
+      }
+    ]
+  }
+]
